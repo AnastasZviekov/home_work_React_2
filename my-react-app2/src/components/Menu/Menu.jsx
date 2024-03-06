@@ -1,9 +1,9 @@
-import {Product} from "../Product/Product.jsx";
+import {ProductList} from "../ProductList/ProductList.jsx";
 
 const Menu = () => {
     return (
         <menu>
-            <Product/>
+            <ProductList/>
         </menu>
     )
 }
